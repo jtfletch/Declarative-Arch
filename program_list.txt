@@ -11,3 +11,4 @@ intellij-idea-ultimate-edition-jre
 visual-studio-code-bin
 firefox-developer-edition
 stow
+lazygit
