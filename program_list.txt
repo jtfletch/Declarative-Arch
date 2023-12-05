@@ -1,0 +1,13 @@
+fish
+timeshift
+neovim
+ttf-firacode-nerd
+curl
+git
+wget
+wl-clipboard
+foot
+intellij-idea-ultimate-edition-jre
+visual-studio-code-bin
+firefox-developer-edition
+stow
